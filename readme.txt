@@ -1,3 +1,1 @@
-readme.txt
-aaaaaa     
-modify by xjt283525476
+需要修改文件，有管理员直接发布
